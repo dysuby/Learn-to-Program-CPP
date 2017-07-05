@@ -1,0 +1,36 @@
+Test 1
+beef potato chicken humburger chips meat noodles dumplings ice-cream carrot 
+After eat
+chicken humburger chips meat noodles dumplings ice-cream 
+After eat
+chips meat noodles dumplings 
+After eat
+noodles 
+After eat
+
+Test 2
+beef potato chicken humburger chips meat noodles dumplings ice-cream carrot 
+After eat at pos : 0
+chicken humburger chips meat noodles dumplings ice-cream 
+After eat at pos : 1
+meat noodles dumplings ice-cream 
+After eat at pos : 2
+meat 
+After eat at pos : 3
+meat 
+After eat at pos : 4
+meat 
+After eat at pos : 5
+meat 
+After eat at pos : 6
+meat 
+After eat at pos : 7
+meat 
+After eat at pos : 8
+meat 
+After eat at pos : 9
+meat 
+Test 3
+beef potato chicken humburger chips meat noodles dumplings ice-cream carrot 
+After a Big guys clear all
+
